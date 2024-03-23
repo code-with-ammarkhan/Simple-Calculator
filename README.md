@@ -1,4 +1,3 @@
-![logo](https://github.com/code-with-ammarkhan/Simple-Calculator/commit/9eff8167eb46df2992ab2b034ee019bf6ed2578d)
 
 <h1 align="center">Hi 👋, I'm Ammar Khan</h1>
 <h3 align="center">A passionate frontend,backend developer from Pakistan</h3>
